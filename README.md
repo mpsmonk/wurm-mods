@@ -34,4 +34,4 @@ You can create a cover book: Activate leather on paper sheet and choose "create"
 
 Doorbell mod WU
 You can use right click on the gate and choose "Ring at doorbell" if gate on the deed, all citizen will recive message about it.
-If gate not on a deed only one who attach the lock will recive it
+If gate not on a deed only one who attach the lock will receive it
