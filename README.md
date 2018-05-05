@@ -35,3 +35,15 @@ You can create a cover book: Activate leather on paper sheet and choose "create"
 Doorbell mod WU
 You can use right click on the gate and choose "Ring at doorbell" if gate on the deed, all citizen will receive message about it.
 If gate not on a deed only one who attach the lock will receive it
+
+
+RedBeam mod WU
+You can create beam of the red light on any tile you want: Activate "hand" and click on tile then select add/remove beam
+To remove beam click on marker and select add/remove beam.
+
+RedBeam_v2 mod WU
+Auto create beam of the red light on any tile from properties at the server strartup.
+
+Lighting storm mod WU
+You can create lighting storm on any tile you want: Activate "hand" and click on tile then select add/remove storm
+To remove beam click on marker and select add/remove storm.
