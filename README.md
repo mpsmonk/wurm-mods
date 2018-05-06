@@ -47,3 +47,7 @@ Auto create beam of the red light on any tile from properties at the server stra
 Lighting storm mod WU
 You can create lighting storm on any tile you want: Activate "hand" and click on tile then select add/remove storm. You can regulate frequency in properties file.
 To remove beam click on marker and select add/remove storm. 
+
+
+EmptyTrashBin mod WU
+For immediately dispose of all items inside. Activate flint and steel and click on trash heap then select Empty trash bin. You have time to think while action executing. Time on action changes in properties
