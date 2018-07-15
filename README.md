@@ -11,6 +11,8 @@ Mod create table REWARDS in wurmitems.db. Supports the following commands:
 Or you can active hand on any item and select "reward" then you will see message window for more comfortable creating reward
 /rewardlist - for looking all exists rewards
 
+Reward mod v2 WU
+Do somethink like v1, but adding auxiliary data fields and support only question window
 
 Bids mod WU
 Mod for holding draws for players. Supports the following commands:
