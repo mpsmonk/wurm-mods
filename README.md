@@ -12,7 +12,7 @@ Or you can active hand on any item and select "reward" then you will see message
 /rewardlist - for looking all exists rewards
 
 Reward mod v2 WU
-Do somethink like v1, but adding auxiliary data fields and support only question window
+Do something like v1, but adding auxiliary data fields, and now support only questions windows.
 
 Bids mod WU
 Mod for holding draws for players. Supports the following commands:
