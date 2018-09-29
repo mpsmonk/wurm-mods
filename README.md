@@ -3,16 +3,7 @@ HoTA Statues mod WU adds a HoTA statues in craft
 
 
 Reward mod WU
-Mod create table REWARDS in wurmitems.db. Supports the following commands:
-/rewardget - explain using that command 
-/rewardget Key - if it key exists in db then you receive item corresponding that key .
-/rewardset - explain using that command. if power <2 then receive message about it
-/rewardset TemplateId,Ql,Material,Rarity - create item in db and key
-Or you can active hand on any item and select "reward" then you will see message window for more comfortable creating reward
-/rewardlist - for looking all exists rewards
-
-Reward mod v2 WU
-Do something like v1, but adding auxiliary data fields, and now support only questions windows.
+Mod create table REWARDS in wurmitems.db. Active hand on any item and select "reward set"/"reward get" or "reward list" then you will see message window for more comfortable work with rewards. Now support only questions windows.
 
 Bids mod WU
 Mod for holding draws for players. Supports the following commands:
