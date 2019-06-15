@@ -24,6 +24,9 @@ You can put the tome in bookshelf. Activate tome on high/low bookshelf and choos
 You can reed something from bookshelf. Activate hand on bookshelf and choose " Thumb through". You receive a small amount in skill depends of what book was put on it, or only in one of mind/logic/speed if there is no book inside.
 You can create a cover book: Activate leather on paper sheet and choose "create".  Need 1 leather and 1 paper sheet, uses papyrus making skill. Simple container.
 
+Books mod WU
+GM with power >=5 can create tome of any skill by using wand or reed pen. Anyone can reed this tome and gain skillpoint in same skill.
+
 
 Doorbell mod WU
 You can use right click on the gate and choose "Ring at doorbell" if gate on the deed, all citizen will receive message about it.
